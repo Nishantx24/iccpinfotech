@@ -6,7 +6,7 @@ pipeline {
     stages { 
         stage('SCM Checkout') {
             steps{
-            git 'https://github.com/iccpnorthindia/jenkinproject2024.git'
+            git 'https://github.com/Nishantx24/iccpinfotech.git'
             }
         }
 
